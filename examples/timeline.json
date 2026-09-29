@@ -1,0 +1,36 @@
+[
+  {
+    "scene_id": 12,
+    "start": 32.1,
+    "end": 38.5,
+    "story_event": "identity_reveal",
+    "emotion": {
+      "type": "shock",
+      "intensity": 0.92
+    },
+    "dialogue": {
+      "importance": 0.98,
+      "compress_pause": false
+    },
+    "editing": {
+      "pace": "fast",
+      "preferred_cut": "reaction",
+      "shot_duration": 0.8,
+      "transition": "black_flash"
+    },
+    "music": {
+      "action": "mute_before_reveal"
+    },
+    "sfx": [
+      {
+        "name": "悬疑弦乐渐强",
+        "offset": -0.7
+      },
+      {
+        "name": "咚咚垂音 心头震",
+        "offset": 0
+      }
+    ],
+    "cliffhanger_score": 0.84
+  }
+]
