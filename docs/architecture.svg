@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">ShortDramaAgent: Event-Driven AI Editing Skill</title>
+  <desc id="desc">A script or video context is analyzed into story events, editing decisions, a structured timeline, and an optional non-linear editor adapter.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#1f2937"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10z" fill="#94a3b8"/></marker>
+    <style>
+      .title{font:700 28px system-ui,-apple-system,sans-serif;fill:#f8fafc}.sub{font:15px system-ui,-apple-system,sans-serif;fill:#cbd5e1}
+      .box{fill:#1e293b;stroke:#475569;stroke-width:1.5}.head{font:650 16px system-ui,-apple-system,sans-serif;fill:#f8fafc}.body{font:13px system-ui,-apple-system,sans-serif;fill:#cbd5e1}
+      .arrow{stroke:#94a3b8;stroke-width:2;fill:none;marker-end:url(#arrow)}.tag{font:12px system-ui,-apple-system,sans-serif;fill:#7dd3fc}
+    </style>
+  </defs>
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+  <text x="48" y="58" class="title">ShortDramaAgent: Event-Driven AI Editing Skill</text>
+  <text x="48" y="84" class="sub">Event-driven post-production planning for vertical short drama</text>
+  <path d="M220 218H258M442 218H480M664 218H702M886 218H924" class="arrow"/>
+  <g transform="translate(40 145)"><rect width="180" height="146" rx="16" class="box"/><rect width="180" height="4" rx="2" fill="url(#accent)"/><text x="18" y="37" class="head">Input</text><text x="18" y="66" class="body"><tspan x="18">Script · transcript</tspan><tspan x="18" dy="21">Video context</tspan><tspan x="18" dy="21">Editing request</tspan></text></g>
+  <g transform="translate(262 145)"><rect width="180" height="146" rx="16" class="box"/><rect width="180" height="4" rx="2" fill="url(#accent)"/><text x="18" y="37" class="head">Story analysis</text><text x="18" y="66" class="body"><tspan x="18">Hook · story beats</tspan><tspan x="18" dy="21">Emotion curve</tspan><tspan x="18" dy="21">Dialogue importance</tspan></text></g>
+  <g transform="translate(484 145)"><rect width="180" height="146" rx="16" class="box"/><rect width="180" height="4" rx="2" fill="url(#accent)"/><text x="18" y="37" class="head">Editing decisions</text><text x="18" y="66" class="body"><tspan x="18">Pacing · reaction cuts</tspan><tspan x="18" dy="21">Music · SFX · subtitles</tspan><tspan x="18" dy="21">Cliffhanger · QC</tspan></text></g>
+  <g transform="translate(706 145)"><rect width="180" height="146" rx="16" class="box"/><rect width="180" height="4" rx="2" fill="url(#accent)"/><text x="18" y="37" class="head">Structured output</text><text x="18" y="66" class="body"><tspan x="18">Timeline JSON</tspan><tspan x="18" dy="21">Editing plan</tspan><tspan x="18" dy="21">QC findings</tspan></text></g>
+  <g transform="translate(928 145)"><rect width="230" height="146" rx="16" class="box"/><rect width="230" height="4" rx="2" fill="url(#accent)"/><text x="18" y="37" class="head">Optional NLE adapter</text><text x="18" y="66" class="body"><tspan x="18">Map to local editor API</tspan><tspan x="18" dy="21">Jianying / CapCut*</tspan><tspan x="18" dy="21">Installed separately</tspan></text></g>
+  <text x="48" y="345" class="tag">* Product features, asset catalogs, and automation APIs vary by region and version.</text>
+</svg>
