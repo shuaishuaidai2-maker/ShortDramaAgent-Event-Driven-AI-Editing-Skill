@@ -56,7 +56,7 @@ This repository does not bundle Jianying/CapCut, `jianying-editor`, media, music
 
 ## 中文简介
 
-ShortDramaAgent 是一个面向竖屏短剧后期策划的 Agent Skill。它根据剧本、转写文本或视频上下文，组织剧情节点、情绪曲线、节奏、对白停顿、配乐与音效、反应镜头、悬念、字幕、连续性检查和交付质检，并输出结构化时间轴与剪辑方案。
+ShortDramaAgent 是一个面向短剧后期策划的 Agent Skill。它根据剧本、转写文本或视频上下文，组织剧情节点、情绪曲线、节奏、对白停顿、配乐与音效、反应镜头、悬念、字幕、连续性检查和交付质检，并输出结构化时间轴与剪辑方案。
 
 仓库只包含 Skill、文档和示例，不含剪映/CapCut 软件、自动化程序、视频、音乐或音效文件。`references/jianying-sfx-library.md` 中的音效名称可能随地区和应用版本变化，实际使用前请在目标应用内确认。
 
